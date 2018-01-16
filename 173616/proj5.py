@@ -61,5 +61,5 @@ def tf_idf():
     return (best,text_files)   
    
             
-if __name__=="__main__":
+if __name__ == "__main__":
     tf_idf()
